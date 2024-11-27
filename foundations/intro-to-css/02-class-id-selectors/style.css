@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+p.odd {
+  background-color: rgb(255, 167, 167);
+  font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#one {
+  color: hsl(240, 100%, 50%);
+  font-size: 36px;
+}
+
+.third {
+  font-size: 24px;
+}
+
+#another {
+  background-color: #80ff80;
+  font-size: 24px;
+  font-weight: bold;
+}
